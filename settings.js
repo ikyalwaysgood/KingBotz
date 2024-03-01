@@ -11,21 +11,21 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //owmner v card
-global.ytname = "YT: salsa" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.ytname = "_" //ur yt chanel name
+global.socialm = "_" //ur github or insta name
+global.location = "Indonesia, Jakarta" //ur location
 
 //new
-global.botname = 'Cheems Bot MD V10' //ur bot name
-global.ownernumber = '6283133965901' //ur owner number
-global.ownername = '🦄드림 가이 salsa' //ur owner name
-global.websitex = "https://www.youtube.com/@salsaBoTz-MD"
-global.wagc = "https://chat.whatsapp.com/FVeqghBll2C1pYalzPWVAI"
-global.themeemoji = '🪀'
-global.wm = "salsa Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD10' //script link
+global.botname = 'Kιɳα Bσƚ' //ur bot name
+global.ownernumber = '6285794908894' //ur owner number
+global.ownername = 'Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ' //ur owner name
+global.websitex = "https://www.instagram.com/iky_alwaysgood?igsh=MXdwbXR3a2xxNjRocA=="
+global.wagc = "https://whatsapp.com/channel/0029VaACVbGDuMRk7zy6vI3a"
+global.themeemoji = '🗿'
+global.wm = "Kιɳα Bσƚ"
+global.botscript = 'Makan nih 🗿' //script link
 global.packname = "Sticker By"
-global.author = "🦄드림 가이 salsa\n\n+6283133965901"
+global.author = "Kιɳα Bσƚ\n\nIky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ"
 global.creator = "6283133965901@s.whatsapp.net"
 global.xprefix = '.'
 global.premium = ["6283133965901"] // Premium User
