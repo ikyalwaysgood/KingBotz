@@ -26,9 +26,9 @@ global.wm = "Kιɳα Bσƚ"
 global.botscript = 'Makan nih 🗿' //script link
 global.packname = "Sticker By"
 global.author = "Kιɳα Bσƚ\n\nIky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ"
-global.creator = "6283133965901@s.whatsapp.net"
+global.creator = "6285794908894@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["6283133965901"] // Premium User
+global.premium = ["6285794908894"] // Premium User
 global.hituet = 0
 
 //bot sett
@@ -37,7 +37,7 @@ global.typereply = 'v2' // reply type 'v1' => 'v3'
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
 global.welcome = false //welcome/left in groups
-global.anticall = false //bot blocks user when called
+global.anticall = true //bot blocks user when called
 global.autoswview = false //auto status/story view
 global.adminevent = false //show promote/demote message
 global.groupevent = false //show update messages in group chat
