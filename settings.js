@@ -27,7 +27,7 @@ global.botscript = 'Makan nih 🗿' //script link
 global.packname = "Sticker By"
 global.author = "Kιɳα Bσƚ\n\nIky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ"
 global.creator = "6285794908894@s.whatsapp.net"
-global.xprefix = '.'
+global.xprefix = '', '.', '/', '!', '#'
 global.premium = ["6285794908894"] // Premium User
 global.hituet = 0
 
