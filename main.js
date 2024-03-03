@@ -241,7 +241,7 @@ XeonBotInc.sendMessage(anu.id,
  "title": ` ${global.botname}`,
 "body": `${ownername}`,
  "previewType": "PHOTO",
-"thumbnailUrl": ``,
+"thumbnailUrl": `https://whatsapp.com/channel/0029VaACVbGDuMRk7zy6vI3a`,
 "thumbnail": XeonWlcm,
 "sourceUrl": `${wagc}`}}})
                 } else if (anu.action == 'remove') {
@@ -269,7 +269,7 @@ XeonBotInc.sendMessage(anu.id,
  "title": ` ${global.botname}`,
 "body": `${ownername}`,
  "previewType": "PHOTO",
-"thumbnailUrl": ``,
+"thumbnailUrl": `https://whatsapp.com/channel/0029VaACVbGDuMRk7zy6vI3a`,
 "thumbnail": XeonLft,
 "sourceUrl": `${wagc}`}}})
 }
@@ -334,7 +334,7 @@ xeonbody = ` 𝗖𝗼𝗻𝗴𝗿𝗮𝘁𝘀🎉 @${xeonName.split("@")[0]}, yo
  "title": ` ${global.botname}`,
 "body": `${ownername}`,
  "previewType": "PHOTO",
-"thumbnailUrl": ``,
+"thumbnailUrl": `https://whatsapp.com/channel/0029VaACVbGDuMRk7zy6vI3a`,
 "thumbnail": XeonWlcm,
 "sourceUrl": `${wagc}`}}})
 } else if (anu.action == 'demote') {
@@ -351,7 +351,7 @@ XeonBotInc.sendMessage(anu.id,
  "title": ` ${global.botname}`,
 "body": `${ownername}`,
  "previewType": "PHOTO",
-"thumbnailUrl": ``,
+"thumbnailUrl": `https://whatsapp.com/channel/0029VaACVbGDuMRk7zy6vI3a`,
 "thumbnail": XeonLft,
 "sourceUrl": `${wagc}`}}})
 }
@@ -460,7 +460,7 @@ ppgroup = 'https://i.ibb.co/RBx5SQC/avatar-group-large-v2.png?q=60'
         return (withoutContact ? '' : v.name) || v.subject || v.verifiedName || PhoneNumber('+' + jid.replace('@s.whatsapp.net', '')).getNumber('international')
     }
 
-XeonBotInc.sendContact = async (jid, kon, quoted = '', opts = {}) => {
+XeonBotInc.sendContact = async (jid, kon, quoted = '╳ ── ◸ *Mʏ Oᴡɴᴇʀ* ◹ ── ╳', opts = {}) => {
 	let list = []
 	for (let i of kon) {
 	    list.push({
